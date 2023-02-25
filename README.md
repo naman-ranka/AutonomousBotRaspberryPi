@@ -1,4 +1,4 @@
-# Raspberry PI Autonomous Bot
+# Raspberry Pi Autonomous Bot
 
 ![This is a image](/img/Lane_Following_R_Trim.gif)
 
