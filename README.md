@@ -1,5 +1,7 @@
 # Raspberry PI Autonomous Bot
 
+![This is a image](/img/Lane_Following_R_Trim.gif)
+
 **Project Summary**:
 
 This project involved building an autonomous car powered by a Raspberry Pi and equipped with various features, such as **lane detection**, **traffic light detection**, **stop sign detection**, **U-turn sign detection**, and **vehicle detection**.
