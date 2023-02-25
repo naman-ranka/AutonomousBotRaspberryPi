@@ -22,7 +22,10 @@ Key Project Features:
 
 Overall, this project was successful in building a Raspberry Pi-powered autonomous car with remote control functionality, and demonstrated the use of various computer vision techniques and hardware components to achieve this goal.
 
+## Results:
 
+1.Stop_sign Detection:
 
 
 ![This is a image](/img/Stop_Sign%20(1).gif)
+
