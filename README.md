@@ -21,3 +21,8 @@ Key Project Features:
 - Android Application: The project utilized an Android application called Bluetooth Electronics that provides various controls, including joystick control.
 
 Overall, this project was successful in building a Raspberry Pi-powered autonomous car with remote control functionality, and demonstrated the use of various computer vision techniques and hardware components to achieve this goal.
+
+
+
+
+![This is a image](/img/Stop_Sign%20(1).gif)
