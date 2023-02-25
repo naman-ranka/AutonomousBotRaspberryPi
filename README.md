@@ -24,8 +24,17 @@ Overall, this project was successful in building a Raspberry Pi-powered autonomo
 
 ## Results:
 
-1.Stop_sign Detection:
+1. Stop Sign Detection:
 
 
 ![This is a image](/img/Stop_Sign%20(1).gif)
 
+
+2. Obstacle Detection
+
+
+![This is a image](/img/Obstacle_Detection_R.gif)
+
+3. Uturn maneuver
+
+![This is a image](/img/Uturn_Trim.gif)
